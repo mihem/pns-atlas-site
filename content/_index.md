@@ -26,7 +26,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title: Datasets
       subtitle:
       text:
       count: 5
