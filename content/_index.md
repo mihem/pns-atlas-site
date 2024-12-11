@@ -42,6 +42,7 @@ sections:
     design:
       view: showcase
       columns: '1'
+      flip_alt_rows: false
   
   - block: markdown
     content:
