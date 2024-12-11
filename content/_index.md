@@ -7,15 +7,14 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Welcome to the 
-        Human PNS Atlas
+      title: 
       image:
         filename: scheme_manuscript.jpg
       text:
 
   - block: markdown
     content:
-      title:
+      title: Welcome to the Human PNS Atlas
       text: |
         This is the corresponding website to the publication [Multi-omic characterization of human sural nerves across polyneuropathies](https://www.biorxiv.org/content/10.1101/2024.12.05.627043v1).
 
