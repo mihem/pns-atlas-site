@@ -5,16 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: Human PNS Atlas
-        Wowchemy
-        Research Group
       image:
         filename: scheme_manuscript.jpg
-      text: |
-        <br>
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
   - block: markdown
     content:
