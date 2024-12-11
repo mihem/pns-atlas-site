@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 
+      title: Welcome to the <br> Human PNS Atlas
       image:
         filename: scheme_manuscript.jpg
       text:
