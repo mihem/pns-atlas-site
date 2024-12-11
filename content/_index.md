@@ -16,7 +16,17 @@ sections:
         <br>
         
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+  - block: markdown
+    content:
+      title: Welcome to the Human PNS Atlas
+      text: |
+        This is the corresponding website to the publication [Multi-omic characterization of human sural nerves across polyneuropathies](https://www.biorxiv.org/content/10.1101/2024.12.05.627043v1).
+        We present a large scale single cell transcriptional and spatial atlas of human peripheral nerves in health and disease (polyneuropathies).
+        Interactive visualizations of the single nuclei sural nerve dataset and the spatial transcriptomics data (Xenium) can be found below.
+        The code used for the analysis can be found on [GitHub](https://github.com/mihem/sural_atlas).
+        The raw sequencing will be available in [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE) soon.
+
   - block: collection
     content:
       title: Latest News
