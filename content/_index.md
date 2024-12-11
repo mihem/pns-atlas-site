@@ -5,18 +5,12 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
       title: Human PNS Atlas
+      image:
+        filename: scheme_manuscript.jpg
       text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: scheme_manuscript.jpg
-          position: center
-          size: cover
-      css_class: fullscreen
 
   - block: markdown
     content:
