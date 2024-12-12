@@ -24,26 +24,6 @@ sections:
         The code used for the analysis can be found on [GitHub](https://github.com/mihem/sural_atlas).
         The raw sequencing will be available in [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE) soon.
 
-  - block: collection
-    content:
-      title: Datasets
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: showcase
-      columns: '1'
-      flip_alt_rows: false
-  
   - block: markdown
     content:
       title:
