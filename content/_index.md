@@ -25,6 +25,7 @@ sections:
         The raw sequencing will be available in [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE) soon.
 
   - block: collection
+    id: datasets
     content:
       title: Datasets
       subtitle:
