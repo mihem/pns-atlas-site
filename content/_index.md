@@ -63,7 +63,7 @@ sections:
       contact_links:
        - icon: twitter
          icon_pack: fab
-         name: Follow on Twitter
+         name: Follow us on Twitter
          link: 'https://twitter.com/mzhlab'
       # Automatically link email and phone or display as text?
       autolink: true
