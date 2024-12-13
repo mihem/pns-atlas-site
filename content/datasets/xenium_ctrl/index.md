@@ -9,9 +9,4 @@ tags:
 # - Clinical Neurology
 # - scRNAseq
 title: Spatial transcriptomics healthy human sural nerve
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
 ---
