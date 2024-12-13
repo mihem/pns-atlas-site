@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-12-12
 type: landing
 
 sections:
@@ -39,7 +39,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: datasets
     design:
       view: showcase
       columns: '1'
