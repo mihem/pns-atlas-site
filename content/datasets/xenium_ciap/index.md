@@ -7,5 +7,3 @@ image:
 summary: Spatial transcriptomics (Xenium) of a sural nerve from a patient suffering from CIAP (chronic idiopathic axonal polyneuropathy) (S14).
 title: Spatial transcriptomics CIAP human sural nerve
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
