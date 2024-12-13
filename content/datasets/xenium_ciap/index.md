@@ -1,5 +1,5 @@
 ---
-date:
+date: "2024-05-01T00:00:00Z"
 external_link: https://osmzhlab.uni-muenster.de/tissuumap/sural/S14_CIAP
 image:
   caption:  Spatial transcripomics CIAP human sural nerve

@@ -1,5 +1,5 @@
 ---
-date:
+date: "2024-04-28T06:00:00Z"
 external_link: https://osmzhlab.uni-muenster.de/tissuumap/sural/S24_CTRL/
 image:
   caption:  Spatial transcripomics healthy human sural nerve
