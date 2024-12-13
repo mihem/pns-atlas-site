@@ -1,5 +1,5 @@
 ---
-date: "2024-04-28T03:30:00Z"
+date:
 external_link: https://osmzhlab.uni-muenster.de/tissuumap/sural/S01_CIDP/
 image:
   caption:  Spatial transcripomics CIDP human sural nerve
