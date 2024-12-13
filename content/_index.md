@@ -54,7 +54,7 @@ sections:
       email: gerd.mzh@uni-muenster.de
       # phone: 888 888 88 88
       address:
-        street: Albert-Schweitzer-Campous 1
+        street: Albert-Schweitzer-Campus 1
         city: Münster
         postcode: '48149'
         country: Germany
