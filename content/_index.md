@@ -23,6 +23,7 @@ sections:
 
         The code used for the analysis can be found on [GitHub](https://github.com/mihem/sural_atlas).
         The raw sequencing will be available in [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE) soon.
+        To reproduce all figure, we created a [Quarto document](https://mihem.github.io/pns_atlas/),  which automatically downloads all relevant data from *Zenodo*.
 
   - block: collection
     id: datasets
