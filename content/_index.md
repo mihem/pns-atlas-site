@@ -46,29 +46,10 @@ sections:
       columns: '1'
       flip_alt_rows: false
 
-  - block: contact
+  - block: markdown
     id: contact
     content:
       title: Contact
-      text:
-      email: gerd.mzh@uni-muenster.de
-      address:
-        street: Albert-Schweitzer-Campus 1
-        city: Münster
-        postcode: '48149'
-        country: Germany
-        country_code: DE
-      coordinates:
-        latitude: '51.96100'
-        longitude: '7.59479'
-      contact_links:
-       - icon: twitter
-         icon_pack: fab
-         name: Follow us on Twitter
-         link: 'https://twitter.com/mzhlab'
-      # Automatically link email and phone or display as text?
-      autolink: true
-    design:
-      columns: '1'
-
+      text: |
+      If you have any questions, please contact us via [mheming.com](https://www.mheming.com).
 ---
