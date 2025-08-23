@@ -21,7 +21,7 @@ sections:
         We present a large scale single cell transcriptional and spatial atlas of human peripheral nerves in health and disease (polyneuropathies).
         Interactive visualizations of the single nuclei sural nerve dataset and the spatial transcriptomics data (Xenium) can be found below.
 
-        The code used for the analysis can be found on [GitHub](https://github.com/mihem/sural_atlas) and has been archived on (Zenodo)[https://zenodo.org/records/15750104].
+        The code used for the analysis can be found on [GitHub](https://github.com/mihem/sural_atlas) and has been archived on [Zenodo](https://zenodo.org/records/15750104).
         The raw sequencing is be available in GEO [GSE285983](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE285983) and [GSE285984](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE285984).
         To reproduce the figures, we created a [Quarto document](https://mihem.github.io/pns_atlas/), which automatically downloads all relevant data from *Zenodo*.
 
